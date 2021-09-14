@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="example2.xsl"?>
+<Article>
+	<Title>My Article</Title>
+  <Authors>
+    <Author>Mr. Foo</Author>
+    <Author>Mr. Bar</Author>
+	<Author>Ms. Right</Author>
+	<Author>Ms. Right</Author>
+	<Author>Ms. Right</Author>
+	<Author>Ms. Right</Author>
+  </Authors>
+  <Body>This is my article text.</Body>
+</Article>
